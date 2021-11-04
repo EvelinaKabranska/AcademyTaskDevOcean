@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dSx/SKAtKq+bZ9mCXDf5HpVrOlPOWUSrK/EI1c5Zs1ki06+Fuic7/XdkO6A5+UqdEuGgcpsxoy14Pu1Kw+Hw4w==",
+  "success": true,
+  "projectFilePath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

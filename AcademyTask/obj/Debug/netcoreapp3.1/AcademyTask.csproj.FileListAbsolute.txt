@@ -1,0 +1,13 @@
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\bin\Debug\netcoreapp3.1\AcademyTask.exe
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\bin\Debug\netcoreapp3.1\AcademyTask.deps.json
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\bin\Debug\netcoreapp3.1\AcademyTask.runtimeconfig.json
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\bin\Debug\netcoreapp3.1\AcademyTask.runtimeconfig.dev.json
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\bin\Debug\netcoreapp3.1\AcademyTask.dll
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\bin\Debug\netcoreapp3.1\AcademyTask.pdb
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\obj\Debug\netcoreapp3.1\AcademyTask.csproj.AssemblyReference.cache
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\obj\Debug\netcoreapp3.1\AcademyTask.AssemblyInfoInputs.cache
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\obj\Debug\netcoreapp3.1\AcademyTask.AssemblyInfo.cs
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\obj\Debug\netcoreapp3.1\AcademyTask.csproj.CoreCompileInputs.cache
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\obj\Debug\netcoreapp3.1\AcademyTask.dll
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\obj\Debug\netcoreapp3.1\AcademyTask.pdb
+D:\Curses\QA Fundamentals\AcademyTask\AcademyTask\obj\Debug\netcoreapp3.1\AcademyTask.genruntimeconfig.cache
