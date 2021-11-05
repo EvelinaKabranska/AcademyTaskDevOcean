@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curses\\QA Fundamentals\\AcademyTask\\Tests\\Tests.csproj": {}
+    "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj": {
+    "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\AcademyTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj",
+        "projectUniqueName": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\AcademyTask.csproj",
         "projectName": "AcademyTask",
-        "projectPath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj",
+        "projectPath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\AcademyTask.csproj",
         "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-        "outputPath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\obj\\",
+        "outputPath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Curses\\QA Fundamentals\\AcademyTask\\Tests\\Tests.csproj": {
+    "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curses\\QA Fundamentals\\AcademyTask\\Tests\\Tests.csproj",
+        "projectUniqueName": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\Tests\\Tests.csproj",
+        "projectPath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-        "outputPath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\Tests\\obj\\",
+        "outputPath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj": {
-                "projectPath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj"
+              "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\AcademyTask.csproj": {
+                "projectPath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\AcademyTask.csproj"
               }
             }
           }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj",
+      "projectUniqueName": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\AcademyTask.csproj",
       "projectName": "AcademyTask",
-      "projectPath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj",
+      "projectPath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\AcademyTask.csproj",
       "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-      "outputPath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\obj\\",
+      "outputPath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",

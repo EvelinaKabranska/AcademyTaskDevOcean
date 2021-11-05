@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dLItZHFAAJG7RGQ1g50ZxB8jhH4mguIdEWa2eFZOjzXJLHIwaMU4M5g8zPU3L8ZbUTRr3P8Pq09LmEKkHZMMbA==",
+  "dgSpecHash": "ydtygaxvVdbMwSXmyeG/V7owlTT6EC1ZKhej4O1a2BmhB0FCHu9DrQNOLwdF1m50jevp8lC5Z7qRUCpvN4GRAA==",
   "success": true,
-  "projectFilePath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\Tests\\Tests.csproj",
+  "projectFilePath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\R\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dSx/SKAtKq+bZ9mCXDf5HpVrOlPOWUSrK/EI1c5Zs1ki06+Fuic7/XdkO6A5+UqdEuGgcpsxoy14Pu1Kw+Hw4w==",
+  "dgSpecHash": "mOo0u5SXIaoiDq3ma0Dua5Z6oRWmzMbVfSs1k/GMP00dIHAJzQS5eOUDfXgJyVApZTctBB7fKeXohhha0RGajQ==",
   "success": true,
-  "projectFilePath": "D:\\Curses\\QA Fundamentals\\AcademyTask\\AcademyTask\\AcademyTask.csproj",
+  "projectFilePath": "D:\\Curses\\QA Fundamentals\\DevOceanAcademyTask\\AcademyTask\\AcademyTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
